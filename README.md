@@ -24,8 +24,8 @@ It’s a web application for blogging. It’s working with
       - Flash Messages Using Session And 
       - etc.
       
-Only Blog Owner Can Edit And Delete Blog.
-Only Registered Or Logged In User Can Create Blog.
+Only Blog Owner Can Edit And Delete Blog,
+Only Registered Or Logged In User Can Create Blog And
 Normal Users Can't Create Blogs. But They Can See the Blogs, Which Are Posted By Others.
 
 Admin panel has a chart, That shows the Counts Of 
